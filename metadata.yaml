@@ -1,0 +1,55 @@
+_repo: The-House-With-Sixty-ClosetsA-Christmas-Story-for-Young-Folks-and-Old-Children_42961
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, J. Randolph
+    gutenberg_agent_id: '42326'
+    url: http://www.gutenberg.org/2009/agents/42326
+covers:
+- cover_type: archival
+  image_path: 42961-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Child, Frank Samuel
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '41951'
+    url: http://www.gutenberg.org/2009/agents/41951
+description: ''
+gutenberg_issued: '2013-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Imagination -- Juvenile fiction'
+- !lcsh 'Empathy -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Planning -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Linen closets -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Sharing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Generosity -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'House construction -- Specifications -- Juvenile fiction'
+- !lcsh 'Judges -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Patronage, Ecclesiastical -- Juvenile fiction'
+- !lcsh 'Husband and wife -- Juvenile fiction'
+- !lcsh 'Children -- Juvenile fiction'
+title: 'The House With Sixty Closets: A Christmas Story for Young Folks and Old Children'
+url: http://www.gutenberg.org/ebooks/42961
