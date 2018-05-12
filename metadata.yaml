@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41951'
     url: http://www.gutenberg.org/2009/agents/41951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42961#The-House-With-Sixty-ClosetsA-Christmas-Story-for-Young-Folks-and-Old-Children
 gutenberg_issued: '2013-06-16'
 gutenberg_type: Text
 identifiers:
